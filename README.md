@@ -1,0 +1,1 @@
+This is my university project for an Artificial Intelligence course. The project aims to identify whether a given audio recording is a natural human voice or a voice generated using artificial intelligence.
